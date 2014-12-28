@@ -1,4 +1,7 @@
 GaddPack--Heatstroke
 ====================
 
-MInecraft Modpack adding more difficulty to survivle mode
+Minecraft modpack designed to bring realistic difficulties to a minecraft world.
+
+Tecknic Pack
+
